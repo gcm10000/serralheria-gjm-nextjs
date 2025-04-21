@@ -8,34 +8,34 @@ const Gallery = () => {
 
   const projects = [
     {
-      title: "Portão Automático Residencial",
-      image: "https://images.unsplash.com/photo-1459767129954-1b1c1f9b9ace?q=80",
-      category: "Portões"
+      title: "",
+      image: "/images/1.jpg",
+      category: ""
     },
     {
-      title: "Estrutura Metálica Industrial",
-      image: "https://images.unsplash.com/photo-1460574283810-2aab119d8511?q=80",
-      category: "Estruturas"
+      title: "",
+      image: "/images/2.jpg",
+      category: ""
     },
     {
-      title: "Grade Decorativa",
-      image: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80",
-      category: "Grades"
+      title: "",
+      image: "/images/3.jpg",
+      category: ""
     },
     {
-      title: "Escada Metálica com Mezanino",
-      image: "https://images.unsplash.com/photo-1431576901776-e539bd916ba2?q=80",
-      category: "Mezaninos"
+      title: "",
+      image: "/images/4.jpg",
+      category: ""
     },
     {
-      title: "Cobertura para Área Externa",
-      image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80",
-      category: "Coberturas"
+      title: "",
+      image: "/images/5.jpg",
+      category: ""
     },
     {
-      title: "Porta de Aço Comercial",
-      image: "https://images.unsplash.com/photo-1496307653780-42ee777d4833?q=80",
-      category: "Portas"
+      title: "",
+      image: "/images/6.jpg",
+      category: ""
     }
   ];
 
