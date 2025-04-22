@@ -68,9 +68,13 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
+        <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
             &copy; {new Date().getFullYear()} Serralheria GJM. Todos os direitos reservados.
           </p>
+          <p className="text-gray-400 text-center md:text-left mb-4 md:mb-0">
+            Desenvolvido por <a href="https://www.ozos.com.br/">Ozos</a>.
+          </p>
+          
           
           <button 
             onClick={scrollToTop}
