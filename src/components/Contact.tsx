@@ -78,8 +78,7 @@ ${message}`;
           <h2 className="text-3xl md:text-4xl font-bold text-gjm-dark mb-4">Entre em Contato</h2>
           <div className="w-24 h-1 bg-gjm-yellow mx-auto mb-6"></div>
           <p className="text-gjm-gray max-w-3xl mx-auto text-lg">
-            Estamos prontos para atender sua necessidade. Entre em contato para um orçamento 
-            sem compromisso ou para tirar qualquer dúvida.
+            Estamos prontos para atender às suas necessidades em serralheria. Entre em contato para solicitar um orçamento sem compromisso ou esclarecer qualquer dúvida. Nossa equipe está à disposição para oferecer as melhores soluções para seu projeto.
           </p>
         </div>
 

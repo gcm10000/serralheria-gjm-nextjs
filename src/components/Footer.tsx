@@ -26,6 +26,9 @@ const Footer = () => {
             <p className="text-gray-300">
               Qualidade, durabilidade e segurança para sua residência ou empresa.
             </p>
+            <p className="text-gray-300">
+              Prestamos serviços de serralheria em todas as regiões do Rio de Janeiro, com destaque para o Recreio, Campo Grande, Guaratiba, Santa Cruz e bairros adjacentes. Somos referência como serralheiro no Rio de Janeiro, oferecendo agilidade, qualidade e preço justo.
+            </p>
           </div>
           
           <div>

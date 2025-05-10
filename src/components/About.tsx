@@ -10,18 +10,18 @@ const About = () => {
     },
     {
       icon: <Clock className="h-10 w-10 text-gjm-yellow" />,
-      title: "Prazos Respeitados",
-      description: "Comprometimento com os prazos estabelecidos, sem atrasos ou surpresas no andamento do projeto."
+      title: "Compromisso com Prazos e Entregas",
+      description: "Na nossa serralheria no Rio de Janeiro, o respeito aos prazos é prioridade. Garantimos a entrega de todos os projetos e consertos no tempo combinado, sem atrasos ou surpresas, sempre com a qualidade que você merece."
     },
     {
       icon: <Award className="h-10 w-10 text-gjm-yellow" />,
-      title: "Qualidade Superior",
-      description: "Utilizamos materiais de primeira linha e técnicas modernas para garantir acabamento perfeito."
+      title: "Qualidade Superior em Serralheria",
+      description: "Trabalhamos com materiais de primeira linha e aplicamos técnicas modernas para garantir um acabamento perfeito em todos os nossos projetos de serralheria no Rio de Janeiro. Nosso compromisso é entregar durabilidade, beleza e excelência em cada serviço."
     },
     {
       icon: <CheckCircle className="h-10 w-10 text-gjm-yellow" />,
-      title: "Atendimento Personalizado",
-      description: "Projetos personalizados de acordo com as necessidades específicas de cada cliente."
+      title: "Atendimento Personalizado em Serralheria",
+      description: "Oferecemos projetos de serralheria personalizados, desenvolvidos de acordo com as necessidades específicas de cada cliente no Rio de Janeiro. Cada trabalho é único, com soluções sob medida para garantir total satisfação."
     }
   ];
 
@@ -55,9 +55,7 @@ const About = () => {
         
         <div className="mt-16 text-center">
           <p className="text-lg text-gjm-dark max-w-3xl mx-auto mb-8">
-            Na Serralheria GJM, unimos tradição e inovação para entregar soluções duráveis e 
-            esteticamente atraentes. Nossa equipe é formada por profissionais experientes e 
-            comprometidos com a excelência em cada detalhe do seu projeto.
+            Serralheria GJM: Tradição, Inovação e Qualidade - Na Serralheria GJM, unimos tradição e inovação para entregar soluções metálicas duráveis, seguras e esteticamente atraentes. Nossa equipe é formada por serralheiros experientes e altamente qualificados, comprometidos com a excelência em cada detalhe do seu projeto de serralheria no Rio de Janeiro.
           </p>
           <a 
             href="#contact" 

@@ -56,8 +56,8 @@ const Gallery = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gjm-dark mb-4">Projetos Realizados</h2>
           <div className="w-24 h-1 bg-gjm-yellow mx-auto mb-6"></div>
           <p className="text-gjm-gray max-w-3xl mx-auto text-lg">
-            Conheça alguns dos nossos trabalhos e a qualidade dos nossos serviços
-            em diferentes tipos de projetos.
+            Conheça Nossos Trabalhos e a Qualidade dos Nossos Serviços
+Explore alguns dos nossos projetos e veja a qualidade das soluções em serralheria que oferecemos, adaptadas para diferentes tipos de necessidades. Clique para ampliar e conferir detalhes de cada trabalho realizado.
           </p>
         </div>
 
